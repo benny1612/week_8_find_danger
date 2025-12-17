@@ -48,7 +48,10 @@ try {
 }
 const js_file =JSON.parse(file)
 js_file.forEach(element => {if (element.name==name)
-    console.log(element)
+    {console.log(element)}
+    else{console.log("person was not found")}
+    
 });
 
 }
+
