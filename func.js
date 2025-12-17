@@ -75,6 +75,3 @@ console.log(dangers_calls)
 
     
   }
-// await GetCallRecordst();
-// await FindDangerousPeople();
-// export const get_p= await GetPeopleList()
