@@ -1,6 +1,5 @@
 import input from 'analiza-sync';
 import {FindDangerousPeople, GetCallRecordst, GetPeopleList, SearchPeoplebyAge, SearchPeoplebyName } from './func.js';
-import { Console } from 'console';
  async function menu(){
     const flag =true
     while(flag){
