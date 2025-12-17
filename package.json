@@ -1,0 +1,20 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000w\u0000e\u0000e\u0000k\u0000_\u00008\u0000_\u0000f\u0000i\u0000n\u0000d\u0000_\u0000d\u0000a\u0000n\u0000g\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/benny1612/week_8_find_danger#readme",
+  "bugs": {
+    "url": "https://github.com/benny1612/week_8_find_danger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benny1612/week_8_find_danger.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "func.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
