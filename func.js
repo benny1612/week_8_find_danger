@@ -39,6 +39,5 @@ export async function GetCallRecordst () {
     console.error("Failed to load data");
   }
 }
-await GetCallRecordst()
 
 
