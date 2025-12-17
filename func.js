@@ -39,6 +39,16 @@ export async function GetCallRecordst () {
     console.error("Failed to load data");
   }
 }
-await GetCallRecordst()
 
+export async function SearchPeoplebyName(name){
+try {
+    const file = await fs.readFile('./PEOPLE.json', 'utf8')
+} catch (error) {console.error(error)
+    
+}
+const js_file =JSON.parse(file)
+js_file.forEach(element => {if (element.name==name)
+    console.log(element)
+});
 
+}
